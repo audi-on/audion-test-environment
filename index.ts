@@ -1,3 +1,4 @@
-function foo(){
-    
+
+export function foo(){
+
 }
